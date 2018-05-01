@@ -2,6 +2,8 @@
   margin: 0px;
   padding: 0px;
   text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
 }
 
 header {
@@ -9,7 +11,34 @@ header {
   width:100rem;
 }
 
+h1 {
+  color: #e6e7e8;
+  display: inline-block;
+  font-size: 4em;
+  margin: .5%;
+}
+
+.pink-heading {
+  color: #ed458b;
+  font-weight: 700;
+}
+
 section {
   border: solid #000;
   width: 100rem;
 }
+
+.guess-input {
+  display: block;
+  height: 50px;
+  width: 50em;
+
+}
+
+
+/*Ed458b Pink Header
+E6e7e8 Guesser Header
+929497 buttons 
+D0d2d3 buttons disabled
+Eb008b buttons hover && user guess 
+404041 : Your last guess was && feedback*/
