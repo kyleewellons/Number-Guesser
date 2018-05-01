@@ -1,0 +1,15 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+}
+
+header {
+  background-color: #404041;
+  width:100rem;
+}
+
+section {
+  border: solid #000;
+  width: 100rem;
+}
